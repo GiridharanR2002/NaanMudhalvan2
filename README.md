@@ -1,1 +1,1 @@
-# Giri Hi
+# AI project of naanmudhalvan
